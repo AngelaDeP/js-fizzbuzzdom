@@ -52,3 +52,13 @@ h1 {
     justify-content: center;
     align-items: center;
 }
+
+.fizzbuzz-box {
+    width: 90px;
+    height: 90px;
+    background-color: #F0466F;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
