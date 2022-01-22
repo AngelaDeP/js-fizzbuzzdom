@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #083B4C;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+    margin: 20px 0px;
+}
+
+#container {
+    max-width: 1000px;
+    width: 100%;    
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.basic-box {
+    width: 90px;
+    height: 90px;
+    background-color: #1389B2;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
